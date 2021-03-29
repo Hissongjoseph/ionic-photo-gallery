@@ -2,7 +2,7 @@
 
 Photo gallery tutorial that can be found on the [Ionic website](https://ionicframework.com/docs/angular/your-first-app).
 
-Deploy and running [here](https://picgallery-4b221.web.app/tabs/tab2)
+Deployed and running [here](https://picgallery-4b221.web.app/tabs/tab2)
 
 ## Running from Local
 
